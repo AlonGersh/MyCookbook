@@ -1,7 +1,7 @@
 # MyCookbook - bring order to the chaos of collecting online recipes
 
 
-## Background
+## Why do you need MyCookbook?
 
 In today's digital age, with recipes flooding the internet from blogs, social media, and other platforms, keeping track of favorite recipes can be a daunting task. For cooking enthusiasts, the challenge lies in storing and organizing these recipes in a way that makes them easily accessible when needed.
 
