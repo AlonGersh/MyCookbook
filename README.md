@@ -23,7 +23,7 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 
 
 
-### Requirements
+## Requirements
 - Python 3.x
 - Tkinter (typically comes pre-installed with Python)
 - PIL (Python Imaging Library) for handling images
