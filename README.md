@@ -10,7 +10,7 @@ MyCookbook was created to address that need — a simple and intuitive tool to o
 ## How It Works?
 The Recipe Organizer App is built using Python and Tkinter, with a simple graphical user interface (GUI) to make it user-friendly. 
 
-### Features overview:
+### Features:
 1. **Add a Recipe**: Users can add new recipes by providing the recipe name, ingredients, instructions, an image (via URL), and a link to a video tutorial (if available).
   
 2. **Organize Recipes**: Recipes can be categorized into categories such as: Desserts, Soups, Salads, etc. The app will display the recipe under the chosen category.
