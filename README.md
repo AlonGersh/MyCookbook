@@ -1,28 +1,26 @@
 # MyCookbook - bring order to the chaos of collecting online recipes
 
+
 ## Background
 
 In today's digital age, with recipes flooding the internet from blogs, social media, and other platforms, keeping track of favorite recipes can be a daunting task. For cooking enthusiasts, the challenge lies in storing and organizing these recipes in a way that makes them easily accessible when needed.
 
 MyCookbook was created to address that need—a simple and intuitive tool to organize, store, and manage recipes in a personal digital cooking book. It allows users to categorize their recipes, view them easily, annotate with personal comments, and navigate through their collection effortlessly, making your cooking experience more enjoyable and organized.
 
-## How It Works
-The Recipe Organizer App is built using Python and Tkinter, with a simple graphical user interface (GUI) to make it user-friendly. Here’s a breakdown of its main features:
+## How It Works?
+The Recipe Organizer App is built using Python and Tkinter, with a simple graphical user interface (GUI) to make it user-friendly. 
 
-- **Add Recipes**: Users can add new recipes by providing the recipe name, ingredients, instructions, an image (via URL), and a link to a video tutorial (if available).
+### Features overview:
+1. **Add a Recipe**: Users can add new recipes by providing the recipe name, ingredients, instructions, an image (via URL), and a link to a video tutorial (if available).
   
-- **Recipe Categories**: Recipes can be categorized into pre-set categories such as: Desserts, Soups, Salads, etc. The user can select the category while adding a recipe, and the app will display the recipe under the chosen category.
+2. **Organize Recipes**: Recipes can be categorized into categories such as: Desserts, Soups, Salads, etc. The app will display the recipe under the chosen category.
 
-- **View and Edit Recipes**: When a recipe is selected, users can view the full recipe with its instructions, image (if provided), and video link (if provided). A "Edit" option allows users to update existing recipes.
+3. **View and Edit Recipes**: When a recipe is selected, users can view the full recipe with its instructions, image, and video link. A "Edit" option allows users to update existing recipes.
 
-- **Comments Section**: In the recipe page users can add personal comments to each recipe, which can be useful for noting modifications or favorite variations.
+4. **Comments**: In the recipe page users can add personal comments to each recipe, which can be useful for noting modifications or favorite variations.
 
-## Features Overview
-1. **Add a Recipe**: Fill out the recipe name, category, instructions, optional video link, and image URL.
-2. **Organize Recipes**: Categorize recipes under labels such as "Main," "Dessert," and "Bread."
-3. **View Recipe**: See the details of a selected recipe, including the instructions, image, and video link.
-4. **Edit Recipe**: Update the recipe information or image.
-5. **Comments**: Add notes or comments to each recipe for personal use.
+5. **Recipe Export**: Users can export a recipe to a text file if they would like a hard copy. The exported file will include a copyright mark acknowledging the recipe's author.
+
 
 
 ### Requirements
