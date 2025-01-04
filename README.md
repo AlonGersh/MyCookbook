@@ -30,10 +30,6 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 
   
 ## Installation
-To install and run the app on your machine, follow these steps:
-
-
-### Steps to Install
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/yourusername/recipe-organizer.git
