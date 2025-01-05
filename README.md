@@ -28,6 +28,10 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 - Tkinter (typically comes pre-installed with Python)
 - PIL (Python Imaging Library) for handling images
 
+
+## Tests
+Will be added
+
   
 ## Installation
 1. Clone the repository to your local machine.
@@ -45,3 +49,6 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 4. Run the app:
    ```bash
    python MyCookbook.py
+
+
+This project was developed as part of the Python programming course at the Weizmann Institute (November 2024).
