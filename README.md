@@ -2,7 +2,6 @@
 
 
 ## Why do you need MyCookbook?
-
 In today's digital age, with recipes flooding the internet from blogs, social media, and other platforms, keeping track of favorite recipes can be a daunting task. For cooking enthusiasts, the challenge lies in storing and organizing these recipes in a way that makes them easily accessible when needed.
 
 MyCookbook was created to address that need — a simple and intuitive tool to organize, store, and manage recipes in a personal digital cooking book. It allows users to categorize their recipes, view them easily, annotate with personal comments, and navigate through their collection effortlessly — making the cooking experience more enjoyable and organized.
@@ -51,4 +50,5 @@ Will be added
    python MyCookbook.py
 
 
-This project was developed as part of the Python programming course at the Weizmann Institute (November 2024).
+
+![asterisk](https://github.com/user-attachments/assets/391862f1-f490-42d2-8780-3adfdb875f4d) This project was developed as part of the Python programming course at the Weizmann Institute (November 2024).
