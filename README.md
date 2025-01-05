@@ -21,7 +21,7 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 
 5. **Recipe Export**: Users can export a recipe to a text file if they would like a hard copy. The exported file will include a copyright mark acknowledging the recipe's author
 
-6.**Personal Rating**: Users can rate each recipe on two aspects: how good it tastes and how easy it is to make
+6. **Personal Rating**: Users can rate each recipe on two aspects: how good it tastes and how easy it is to make
 
 
 ## Requirements
