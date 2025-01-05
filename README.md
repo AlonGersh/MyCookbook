@@ -26,7 +26,7 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 - Python 3.x
 
 ### Dependencies
-- `tkinter` (typically comes pre-installed with Python): Core module for creating the GUI
+- `tkinter`: (typically comes pre-installed with Python): Core module for creating the GUI
 - `os`: For file and directory operations
 - `json`: For handling JSON data
 - `io. BytesIO`: For working with binary data streams (used to handle image data)
