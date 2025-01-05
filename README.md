@@ -51,4 +51,4 @@ Will be added
 
 
 
-![asterisk](https://github.com/user-attachments/assets/391862f1-f490-42d2-8780-3adfdb875f4d) This project was developed as part of the Python programming course at the Weizmann Institute (November 2024).
+*This project was developed as part of the Python programming course at the Weizmann Institute (November 2024).
