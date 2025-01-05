@@ -51,5 +51,4 @@ Will be added
    python MyCookbook.py
 
 
-
 *This project was developed as part of the Python programming course at the Weizmann Institute (November 2024).
