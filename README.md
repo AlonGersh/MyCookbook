@@ -1,4 +1,4 @@
-# MyCookbook - bring order to the chaos of collecting online recipes
+# MyCookbook - Bring order to collecting online recipes
 
 
 ## Why do you need MyCookbook?
