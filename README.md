@@ -1,5 +1,6 @@
 # MyCookbook - Bring order to collecting online recipes
 
+![mycookbook-high-resolution-logo](https://github.com/user-attachments/assets/ca0c363b-2905-4b42-801c-b1af5ef5d9ee)
 
 ## Why do you need MyCookbook?
 In today's digital age, with recipes flooding the internet from blogs, social media, and other platforms, keeping track of favorite recipes can be a daunting task. For cooking enthusiasts, the challenge lies in storing and organizing these recipes in a way that makes them easily accessible when needed.
