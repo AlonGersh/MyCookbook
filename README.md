@@ -36,7 +36,7 @@ Will be added
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/recipe-organizer.git editttttt
+   git clone https://github.com/AlonGersh/MyCookbook.git 
 
 2. Navigate to the directory where the code is located.
    ```bash
