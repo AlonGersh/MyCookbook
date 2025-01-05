@@ -8,7 +8,7 @@ In today's digital age, with recipes flooding the internet from blogs, social me
 MyCookbook was created to address that need — a simple and intuitive tool to organize, store, and manage recipes in a personal digital cooking book. It allows users to categorize their recipes, view them easily, annotate with personal comments, and navigate through their collection effortlessly — making the cooking experience more enjoyable and organized.
 
 ## How It Works?
-The Recipe Organizer App is built using Python and Tkinter, with a simple graphical user interface (GUI) to make it user-friendly.
+The Recipe Organizer App is built using Python and Tkinter, with a simple graphical user interface to make it user-friendly.
 
 ### Features:
 1. **Add a Recipe**: Users can add new recipes by providing the recipe name, ingredients, instructions, an image (via URL), and a link to a video tutorial (if available)
