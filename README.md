@@ -32,7 +32,7 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 - `os`: For file and directory operations
 - `json`: For handling JSON data
 - `io. BytesIO`: For working with binary data streams (used to handle image data)
-- `Pillow`: Provides the Image and ImageTk modules for working with images
+- `Pillow`: Provides the `Image` and `ImageTk` modules for working with images
 - `tkinter`: Used for themed widgets in the GUI
 - `requests`: Used for making HTTP requests to fetch images from URLs
 
