@@ -58,7 +58,7 @@ class RecipeWindow:
         if recipe_index is not None:
             self.load_recipe(recipes[recipe_index])
 
-        # Add a "Save Recipe" button
+        # "Save Recipe" button
         ttk.Button(self.window, text="Save Recipe", command=self.save_recipe).grid(row=len(fields), column=1, pady=10)
 
     def load_recipe(self, recipe):
@@ -297,7 +297,7 @@ class ViewRecipeWindow:
         self.canvas.pack(side="left", fill="both", expand=True)
         self.scrollbar.pack(side="right", fill="y")
 
-        # Add export button
+        # Export button
         export_button = ttk.Button(self.window, text="Export txt file", command=self.export_recipe)
         export_button.grid(row=6, column=1, pady=10)
 
