@@ -44,7 +44,7 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 
 3. Navigate to the directory where the code is located.
    ```bash
-   cd MyCookbook
+   cd mycookbook
 
 4. Install the required libraries (if not already installed):
    ```bash
@@ -52,7 +52,7 @@ The Recipe Organizer App is built using Python and Tkinter, with a simple graphi
 
 5. Run the app:
    ```bash
-   python MyCookbook.py
+   python mycookbook.py
 
 ## Adding recipe image to the recipe page
 - Right-click on the desired image and press "copy image address".
