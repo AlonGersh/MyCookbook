@@ -8,7 +8,6 @@ from io import BytesIO
 import webbrowser
 from functools import partial
 
-# Ensure the data directory exists
 if not os.path.exists("data"):
     os.makedirs("data")
 
@@ -35,7 +34,7 @@ class RecipeWindow:
         self.window = tk.Toplevel()
         self.window.title("Add Recipe" if recipe_index is None else "Edit Recipe")
 
-        # Define fields for the recipe form
+        # Fields for the recipe form
         fields = [
             ("Recipe Name:", "name", tk.Entry, {}),
             ("Category:", "category", ttk.Combobox, {"values": self.app.categories, "state": "readonly"}),
@@ -58,7 +57,7 @@ class RecipeWindow:
         if recipe_index is not None:
             self.load_recipe(recipes[recipe_index])
 
-        # Add a "Save Recipe" button
+        # "Save Recipe" button
         ttk.Button(self.window, text="Save Recipe", command=self.save_recipe).grid(row=len(fields), column=1, pady=10)
 
     def load_recipe(self, recipe):
@@ -297,7 +296,7 @@ class ViewRecipeWindow:
         self.canvas.pack(side="left", fill="both", expand=True)
         self.scrollbar.pack(side="right", fill="y")
 
-        # Add export button
+        # Export button
         export_button = ttk.Button(self.window, text="Export txt file", command=self.export_recipe)
         export_button.grid(row=6, column=1, pady=10)
 
@@ -317,7 +316,6 @@ class ViewRecipeWindow:
                     file.write(f"- {comment}\n")
             messagebox.showinfo("Success", f"Recipe exported to {file_path}")
 
-# Main application entry point
 if __name__ == "__main__":
     root = tk.Tk()
     app = MyCookBook(root)
